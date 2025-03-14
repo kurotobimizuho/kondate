@@ -23,7 +23,7 @@ body {
 /* テーブルヘッダー */
 #txt table.dataframe thead th {
     background-color: bisque;
-    color: #ffffff;
+    color: black;
     padding: 12px;
     font-weight: bold;
     text-transform: uppercase;
